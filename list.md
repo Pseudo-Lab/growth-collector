@@ -3,3 +3,6 @@
 | Geoffrey Hinton  | Google, University of Toronto | British-Canadian | [link](https://www.cs.toronto.edu/~hinton/) | Deep Learning, NN, Backpropagation | ... |
 | Yoshua Bengio    | Université de Montréal, Mila  | Canadian         | [link](https://yoshuabengio.org/) | Deep Learning, NN, Representation Learning | ... |
 | Yann LeCun       | Meta, New York University     | French-American  | [link](https://yann.lecun.com/) | Deep Learning, CNNs, Image Classification | ... |
+| Pranav Rajpurkar | Harvard University            | ...              | [link](https://pranavrajpurkar.com/) | NLP, medical AI, Lead Author of SQuAD| ... |
+| Percy Liang      | Stanford University           | ...              | [link](https://cs.stanford.edu/~pliang/) | NLP                              | ... |
+
