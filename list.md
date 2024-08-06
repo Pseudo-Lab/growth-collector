@@ -5,4 +5,5 @@
 | Yann LeCun       | Meta, New York University     | French-American  | [link](https://yann.lecun.com/) | Deep Learning, CNNs, Image Classification | ... |
 | Pranav Rajpurkar | Harvard University            | ...              | [link](https://pranavrajpurkar.com/) | NLP, medical AI, Lead Author of SQuAD| ... |
 | Percy Liang      | Stanford University           | ...              | [link](https://cs.stanford.edu/~pliang/) | NLP                              | ... |
-
+| Andrej Karpathy  | Eureka Labs                   | Canadian         | [link](https://karpathy.ai/) | ComputerVision, Self-Driving, LLM            | ... |
+| Taehoon Kim      | SHIFTUP                       | Korean           | [link](https://carpedm20.github.io/) | Gen AI, Reinforcement Learning       | ... |
