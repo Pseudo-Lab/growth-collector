@@ -7,8 +7,11 @@
 | Percy Liang      | Stanford University           | ...              | [link](https://cs.stanford.edu/~pliang/) | NLP                              | ... |
 | Andrej Karpathy  | Eureka Labs                   | Canadian         | [link](https://karpathy.ai/) | ComputerVision, Self-Driving, LLM            | ... |
 | Taehoon Kim      | SHIFTUP                       | Korean           | [link](https://carpedm20.github.io/) | Gen AI, Reinforcement Learning       | ... |
-| Jiwon Kim      | SK Telecom                       | Korean           | [link](https://scholar.google.com/citations?user=xhvzHFAAAAAJ&hl=en) | GAN, Super Resolution, Continual Learning       | ... |
-| Junho Kim      | Naver                       | Korean           | [link](https://github.com/taki0112) | Gen AI, GAN       | ... |
-| Ian Goodfellow      | Deepmind                       | American           | [link](https://carpedm20.github.io/) | Gen AI, Reinforcement Learning       | GAN 창시자 |
-| Robin Rombach      | LMU Munich                       | German           | [link](https://scholar.google.com/citations?user=ygdQhrIAAAAJ&hl=en) | Gen AI, Image Generation       | Stable Diffusion 1저자 |
-| Aditya Ramesh      | openAI                       | India           | [link](http://adityaramesh.com/about.html) | Gen AI, Image Generation      | head of DALLE |
+| Jiwon Kim      | SK Telecom                      | Korean           | [link](https://scholar.google.com/citations?user=xhvzHFAAAAAJ&hl=en) | GAN, Super Resolution, Continual Learning       | ... |
+| Junho Kim      | Naver                           | Korean           | [link](https://github.com/taki0112) | Gen AI, GAN       | ... |
+| Ian Goodfellow      | Deepmind                   | American         | [link](https://carpedm20.github.io/) | Gen AI, Reinforcement Learning       | GAN 창시자 |
+| Robin Rombach      | LMU Munich                  | German           | [link](https://scholar.google.com/citations?user=ygdQhrIAAAAJ&hl=en) | Gen AI, Image Generation       | Stable Diffusion 1저자 |
+| Aditya Ramesh      | openAI                      | India            | [link](http://adityaramesh.com/about.html) | Gen AI, Image Generation      | head of DALLE |
+| Chanho Ohk       |42dot                          |Korean            | [link](https://utilforever.github.io/)| Reinforcement Learning, Graphics | ... |
+| Hwalsuk Lee       | Upstage                      |Korean            | [link](https://www.linkedin.com/in/upstage-stan/?originalSubdomain=kr)| ComputerVision, Gen AI | CTO of Upstage|
+| Shlomi Fruchter | Google Deepmind                | Israelis         | [link](https://www.linkedin.com/in/shlomifruchter/?originalSubdomain=il)| Image Generation     | author of Gamengen paper |
